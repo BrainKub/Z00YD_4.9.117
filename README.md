@@ -11,7 +11,7 @@ Status - пи@#$!!
 - Всё, что не работает
 ------------------
 Работает:
-- ¯\_(ツ)_/¯
+-  ¯\_(ツ)_/¯
 ------------------
 ![image](https://www.asus.com/Phone/ASUS-Live-G500TG/Features/websites/global/products/Es9S11dSeOjsCMrx/images/ZenfoneGo_logo.png)
 #
